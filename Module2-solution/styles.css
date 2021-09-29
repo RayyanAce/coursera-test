@@ -16,10 +16,10 @@ h1 {
 }
 
 p {
-  padding: 25px 5px 0px 0px;
+  padding: 24px 5px 0px 0px;
   font-family: sans-serif;
   color: white;
-  font-size: 15px;
+  font-size: 17px;
   position: relative;
 }
 
@@ -28,19 +28,20 @@ p {
 
     border: 2px solid black;
     margin-top: 20px; 
-    margin-right: 20px; 
-    padding: 3px;
+    margin-right: 10px; 
     text-align: justify;
+    padding: 5px;
     position: relative;
  }
 
 span {
-  font-size: 22px;
-  width: 150px;
-  border: 1px solid black;
+  font-size: 26px;
+  width: 200px;
   font-weight: bold;
   text-align: center;
-  float: right; top :0; right: 0; margin: 0;
+  border: 1px solid black;
+  float: right; 
+  top :0; right: 0; margin: 0;
   position: absolute;
 }
 .t1 {
